@@ -36,7 +36,7 @@ bash : "python scraper.py --company slack --start 2024-01-01 --end 2024-12-31 --
 To scrape reviews from Trustpilot, run the script with the "trustpilot" source option:
 bash : "python scraper.py --company slack --start 2024-01-01 --end 2024-12-31 --source trustpilot"
 
-# Output
+# Sample Output
 The script generates an output.json file with the following structure:
 output.json:
 {
