@@ -29,7 +29,7 @@ If automated scraping is blocked, the script automatically falls back to sample 
 This ensures consistent output while demonstrating multi-source integration.
 
 # Usage
-Run the scraper using the command line:
+Run the scraper.py file using the command line:
 python scraper.py --company <company name> --start <yyyy-mm-dd> --end <yyyy-mm-dd> --source <source>
 bash : "python scraper.py --company slack --start 2024-01-01 --end 2024-12-31 --source g2"
 
